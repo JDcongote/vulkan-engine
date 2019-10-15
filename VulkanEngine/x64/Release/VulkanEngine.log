@@ -1,0 +1,7 @@
+﻿  main.cpp
+  Generating code
+  70 of 158 functions (44.3%) were compiled, the rest were copied from previous compilation.
+    38 functions were new in current compilation
+    6 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  VulkanEngine.vcxproj -> C:\Projects\VulkanEngine\x64\Release\VulkanEngine.exe
